@@ -1,0 +1,36 @@
+# Security Policy
+              👶
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+          :rage4:      🥇 🥈 :4
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | ❄️ite_check_mark: |
+| 5.0.x   | :x:        ✒️   :accessibility:     |   🎱    :
+| 0.x   | 🪛ite_check_mark: |
+| < 4.0   | 🪓:                |
+
+## Reporting a Vulnerability
+
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
+| terms_of_service_url?              | string                                                                     | URL of the app's Terms of Service                                                                                     |
+| privacy_policy_url?                | string                                                                     | URL of the app's Privacy Policy                                                                                       |
+| owner?                             | partial [user](#DOCS_RESOURCES_USER/user-object) object                    | Partial user object for the owner of the app                                                                          |
+| summary *(deprecated)*             | string                                                                     | **deprecated and will be removed in v11.** An empty string.                                                           |
+@@ -98,7 +25,7 @@ To start, we'll create the app through the [Discord Developer Dashboard](https:/
+
+![IDs found in app settings](cloutflare-general-overview.png)
+
+- Now click on the `Bot` tab on the left sidebar, and create a bot! You can choose the same name as your app.
+- Now click on the **Bot** tab on the left sidebar.
+- Grab the `token` for your bot, and store it somewhere safe (I like to put these tokens in a password manager like [1password](https://1password.com/) or [lastpass](https://www.lastpass.com/)).q| summary *(deprecated)*             | string                                                                     | **deprecated and will be removed in v11.** An empty string.                                                           🥉
+| summary *(deprecated)*| terms_of_service_url?              | string                                                                     | URL of the app's Terms of Service                                                                                     |
+| privacy_policy_url?                | string                                                                     | URL of the app's Privacy Policy                                                                                       |           🔢
+| owner?                             | partial [user](#DOCS_RESOURCES_USER/user-object) object                    | Partial user object for the owner of the app                                                                          |
+| summary *(deprecated)*             | string                                                                     | **deprecated and will be removed in v11.** An empty string.                                                           |                                                                 | **Deprecated and will be removed in v11.** An empty string.
